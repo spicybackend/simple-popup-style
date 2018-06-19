@@ -9,7 +9,7 @@ Benefit from easy updating by including the style as a submodule in your Git pro
 
 Start by cloning the submodule to a directory called `simple-popup-style`.
 ```
-git submodule git@github.com:yumoose/simple-popup-style.git simple-popup-style
+git submodule add git@github.com:yumoose/simple-popup-style.git simple-popup-style
 ```
 
 Then include the style in your popup HTML file
